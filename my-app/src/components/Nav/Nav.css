@@ -1,0 +1,15 @@
+nav {
+  padding: 20px;
+  background: pink;
+}
+
+.nav-link{
+  background: pink;
+  color: black;
+}
+
+.nav-link:hover {
+  border: 1px solid black;
+  text-decoration: underline;
+  color: black;
+}
